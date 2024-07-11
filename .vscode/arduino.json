@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ventilator.ino",
+    "port": "/dev/ttyACM0"
+}
